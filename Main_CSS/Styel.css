@@ -612,7 +612,7 @@ table td {
   border-radius: 20px;
   box-shadow: 1px 1px 5px gray;
 }
-/* #Bulk_Upload_styel input{
+#Create_Event_styel input{
   width: 90%;
   border-radius: 20px;
   border: none;
@@ -621,7 +621,7 @@ table td {
   padding: 6px;
   margin: 5px;
   padding-left: 20px;
-} */
+}
 #Bulk_Upload_styel input[type="file"]::file-selector-button{
   cursor: pointer;
   background: transparent;
